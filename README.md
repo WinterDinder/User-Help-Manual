@@ -19,12 +19,12 @@ A. You can download Krnl from Krnl.place, Fluxus from fluxteam.net, Oxygen U fro
 Q. Where are the scripts???
 A. ~~Verify dumbass~~ After verifying, you are given access to the rest of the server. This includes the channel containing all the scripts and the channel containing the keys for some of the scripts.
 
-Q. What is the key???
-A. ~~You're getting stabbed tonight~~ Above
+Q. Where is the key???
+A. ~~You're getting stabbed tonight~~ Above.
 
 Q. What happens if I do commands outside the bot commands channel???
-A. ~~You're gonna get stabbed by me~~ It will block you from using the command and tell you to go to the appropriate channel
+A. ~~You're gonna get stabbed by me~~ It will block you from using the command and tell you to go to the appropriate channel.
 
 # Everything still doesn't work?
 
-Make a ticket by going to the report issues channel. It will always be available to you verified or unverified. Note: Do not ping staff as they have a life outside of Discord so they may not have time to answer your question.
+Make a ticket by going to the report issues channel. It will always be available to you verified or unverified. Note: Do not ping staff as they have a life outside of Discord (unlike you lol) so they may not have time to answer your question.
