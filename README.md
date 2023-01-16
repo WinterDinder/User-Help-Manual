@@ -22,6 +22,9 @@ A. ~~Verify dumbass~~ After verifying, you are given access to the rest of the s
 Q. What is the key???
 A. ~~You're getting stabbed tonight~~ Above
 
- ```
- sss
- ```
+Q. What happens if I do commands outside the bot commands channel???
+A. ~~You're gonna get stabbed by me~~ It will block you from using the command and tell you to go to the appropriate channel
+
+# Everything still doesn't work?
+
+Make a ticket by going to the report issues channel. It will always be available to you verified or unverified. Note: Do not ping staff as they have a life outside of Discord so they may not have time to answer your question.
