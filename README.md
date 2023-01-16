@@ -28,3 +28,14 @@ A. ~~You're gonna get stabbed by me~~ It will block you from using the command a
 # Everything still doesn't work?
 
 Make a ticket by going to the report issues channel. It will always be available to you verified or unverified. Note: Do not ping staff as they have a life outside of Discord (unlike you lol) so they may not have time to answer your question.
+
+
+
+
+
+
+
+Found this repo by mistake?
+Love ROBLOX scripts?
+Join 56 Clubs Today!
+`discord.gg/K6JDqbwgc8`
